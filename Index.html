@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempurature Converter</title>
+    <link rel="stylesheet" href="Style.css">
+    
+</head>
+<body>
+    <div id="header">
+        <br>
+        <div class="heading">
+            <h1>Temperature Converter</h1>
+        </div>
+        <div class="main">
+            <div class="left">
+               <div class="cel">
+                <p>
+                    Celsius: <br> <input type="text" name="celsius" id="celsius" placeholder="Enter Celsius" > <sup>o</sup>C
+                </p>
+                <img src="Images/Celcius-removebg-preview.png" alt="celcius">
+               </div>
+            </div>
+            <div class="center">
+                <!-- <button class="button" onclick="calc();">Convert</button> -->
+                <img src="Images/arrows.png" alt="arrows">
+                <button class="button" onclick="reset()">Reset</button>
+            </div>
+            <div class="right">
+                <div class="Fah">
+                    <p>
+                        Fahrenheit: <input type="text" name="fah" id="fah" placeholder="Enter Fahrenheit" > <sup>o</sup>F
+                    </p>
+                    <img src="Images/Fahrenheit-removebg-preview.png" >
+            </div>
+        </div>   
+    </div>
+    <script src="javascript.js"></script>
+</body>
+</html>

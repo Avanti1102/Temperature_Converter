@@ -1,0 +1,122 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Images/BG_design.png);
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    height: 50px;
+    width: 97%;
+    background-color: black;
+    text-align: center;
+    align-self: center;
+    margin: 19px;
+    padding-top: 10px;
+}
+.heading h1{
+    color: #fff;
+}
+.main{
+    height: 550px;
+    width: 100%;
+    /* border: black 2px solid; */
+    display: flex;
+    
+}   
+.main .left{
+    width: 40%;
+    height: 500px;
+    /* border: black 2px solid; */
+    float: left;
+    justify-content: center;
+    margin: 3px;
+}
+.left .cel{
+    justify-content: center;
+    /* border: black 2px solid; */
+    width: 70%;
+    height: 70px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.left .cel p{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+.left .cel input{
+    height: 50px;
+    font-size: x-large;
+}
+.left img{
+    width: 300px;
+    height: 200px;
+    align-self: center;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.main .center{
+    width: 20%;
+    height: 500px;
+    /* border: black 2px solid; */
+    justify-content: center;
+    margin: 3px;
+    align-items: center;
+}
+.center button{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: aqua;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.center button {
+    cursor: pointer;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+} 
+.center img{
+    width: 180px;
+    height: 180px;
+    align-self: center;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.main .right{
+    width: 40%;
+    height: 500px;
+    /* border: black 2px solid; */
+    float: right;
+    justify-content: center;
+    margin: 3px;
+}
+.right .Fah{
+    justify-content: center;
+    /* border: black 2px solid; */
+    width: 70%;
+    height: 70px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.right .Fah p{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.right .Fah input{
+    height: 50px;
+    font-size: x-large;
+}
+.right img{
+    width: 178px;
+    height: 200px;
+    align-self: center;
+    margin-left: 80px;
+    margin-top: 50px;
+}
