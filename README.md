@@ -1,12 +1,12 @@
-# 🌡️ TempConvertor
+# 🌡️ Temperature_Converter
 
-Welcome to **TempConvertor**! This is an intuitive and easy-to-use website for converting temperatures between Celsius, Fahrenheit, and Kelvin.
+Welcome to **Temperature_Converter**! This is an intuitive and easy-to-use website for converting temperatures between Celsius, Fahrenheit, and Kelvin.
 
 ---
 
 ## 📜 Overview
 
-**TempConvertor** allows users to effortlessly convert temperatures from one unit to another. It’s designed to be user-friendly and accessible, making it ideal for anyone needing quick and accurate temperature conversions.
+**Temperature_Converter** allows users to effortlessly convert temperatures from one unit to another. It’s designed to be user-friendly and accessible, making it ideal for anyone needing quick and accurate temperature conversions.
 ---
 
 ## 🔧 Technologies Used
@@ -55,4 +55,4 @@ Contributions are welcome! Here’s how you can contribute:
 5. Open a pull request.
 
 ---
-Thank you for using TempConvertor! 🌡️ Enjoy converting temperatures effortlessly!
+Thank you for using Temperature_Converter! 🌡️ Enjoy converting temperatures effortlessly!
